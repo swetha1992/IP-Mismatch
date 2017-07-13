@@ -6,7 +6,7 @@ from ipaddress import IPv4Network
 from ipaddress import IPv4Interface
 
 #Filenames and Paths
-PRIMARY_JSON_FILE="samplejson.json"
+PRIMARY_JSON_FILE="IPDATA-JSON.json"
 EXTRACT_CSV="extract.csv"
 TRUE_SOURCE_CSV="truesource.csv"
 RESULT_CSV="result.csv"
