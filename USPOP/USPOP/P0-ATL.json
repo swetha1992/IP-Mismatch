@@ -1,0 +1,2 @@
+[{"name" : "bb2-snd2-atl","subnet" : "173.205.44.26/30","vlan" : "Te1/50"},{"name" : "bb2-snd2-atl","subnet" : "174.35.31.1/25","vlan" : "Vl100"},{"name" : "bb2-snd2-atl","subnet" : "174.35.32.1/32","vlan" : "Lo0"},{"name" : "bb2-snd2-atl","subnet" : "174.35.32.129/25","vlan" : "Vl100"},{"name" : "bb2-snd2-atl","subnet" : "174.35.32.33/27","vlan" : "Vl100"},{"name" : "bb2-snd2-atl","subnet" : "174.35.32.4/32","vlan" : "Lo1"},{"name" : "bb2-snd2-atl","subnet" : "174.35.32.65/26","vlan" : "Vl100"},{"name" : "bb2-snd2-atl","subnet" : "213.248.83.130/30","vlan" : "Te1/49"}]
+
